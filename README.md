@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm an IT Undergraduate
+I'm an IT Undergraduate👨‍🎓
+Intresting in Programming💻⌨
 
 <!--
 **vidurangaushan/vidurangaushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
