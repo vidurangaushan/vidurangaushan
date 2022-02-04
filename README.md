@@ -3,6 +3,7 @@
 I'm an IT Undergraduate👨‍🎓,               
 Intresting in Programming💻⌨
 
+### Skills
 <!--
 **vidurangaushan/vidurangaushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
