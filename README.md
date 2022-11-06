@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an IT Undergraduate👨‍🎓,               
+I'm an Data Science Undergraduate👨‍🎓,               
 Intresting in Programming💻⌨
 
 
